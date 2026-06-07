@@ -17,7 +17,7 @@ cobol-tools/
     └── examples/
         └── employee.cpy
 ```
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5ffadd4f-c93d-49d2-b9f9-d66ff3a38672" />
 ---
 
 ## The Problem
