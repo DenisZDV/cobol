@@ -1,4 +1,4 @@
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/7d5a2a36-ef19-43ba-9cd0-6a1e46e36837" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5ffadd4f-c93d-49d2-b9f9-d66ff3a38672" />
 
 # cobol-tools
 
@@ -17,7 +17,6 @@ cobol-tools/
     └── examples/
         └── employee.cpy
 ```
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5ffadd4f-c93d-49d2-b9f9-d66ff3a38672" />
 ---
 
 ## The Problem
